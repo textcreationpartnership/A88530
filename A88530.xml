@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A looking glasse for the Oxford juncto, and all others that have advised to, or are promoters and fomenters of our present, unnaturall, bloody, and destructive dissentions. Being a most serious and seasonable exhortation both to the king and subjects, yet at last to imbrace and preserve peace, and abandon civill wars, after so much wofull experience of the miserable effects thereof: with other matters worthie of consideration.</title>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88530</idno><idno type="EEBO-CITATION">99861155</idno>
+  <idno type="VID">158826</idno>
+  <idno type="EEBO-PROQUEST">2240870838</idno>
+  
+            <idno type="STC">Wing L3028</idno>
+            <idno type="STC">Thomason E308_6</idno>
+            <idno type="STC">ESTC R200352</idno>
+            <idno type="PROQUEST">99861155</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99861155e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88530)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 158826)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 50:E308[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A looking glasse for the Oxford juncto, and all others that have advised to, or are promoters and fomenters of our present, unnaturall, bloody, and destructive dissentions. Being a most serious and seasonable exhortation both to the king and subjects, yet at last to imbrace and preserve peace, and abandon civill wars, after so much wofull experience of the miserable effects thereof: with other matters worthie of consideration.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E.P. for Thomas Vere, and are to be sold at his shop at the upper end of the Old-Bayley.,</publisher>
+                  <pubPlace>London; :</pubPlace>
+                  <date>Novemb. 3. 1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At foot of page 6: This is printed according to order.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Peace --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:158826:1"/>
+            <p>A Looking Glasse FOR THE OXFORD JVNCTO, And all others that have advised to, or are promoters and fomenters of our pre<g ref="char:EOLhyphen"/>sent, unnaturall, bloody, and destructive dissentions.</p>
+            <p>Being a most serious and seasonable Exhortation both to the KING and Subjects, yet at last to imbrace and preserve Peace, and abandon Civill Wars, after so much wofull experi<g ref="char:EOLhyphen"/>ence of the miserable effects thereof: With other matters worthie of Consideration.</p>
+            <q>
+               <bibl>
+                  <hi>PROV. 12.20.</hi>
+               </bibl>
+               <p>To the Councellours of Peace is Joy.</p>
+               <bibl>
+                  <hi>MAT. 6.9.</hi>
+               </bibl>
+               <p>Blessed are the Peace-makers, for they shall be called the Chil<g ref="char:EOLhyphen"/>dren of God.</p>
+            </q>
+            <p>LONDON; Printed by <hi>E. P.</hi> for <hi>Thomas Vere,</hi> and are to be sold at his Shop at the upper end of the Old-Bayley. <hi>Novemb.</hi> 3. 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:158826:2"/>
+            <pb n="1" facs="tcp:158826:2"/>
+            <head>A Looking Glasse for the OXFORD JUNCTO.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He present deplorable condition of our bleeding and almost expiring Kingdome, contriving its owne unevitable Ruine, by a Cruell, Destructive, unnaturall Civill Warre, intended (as the Par<g ref="char:EOLhyphen"/>liament informes us) by the King (seduced by wicked and pernitious Councellours) against the Parliament and Kingdome: (Of the truth whereof, wee have now these three yeares past, had to too wofull experience) hath in a manner constrained me, (after much griefe of heart, to see three poore Kingdomes wallowing in their owne blood) to attempt the speedie redresse of this transcendent Calamity, by propounding, (to avoid long circumstances) this one most serious and seasonable Proposition, both to the King and Kingdome, namely;</p>
+            <p>
+               <hi>That it is the bounden dutie of every good Christian, King, and Subject, to the uttermost of their powers, to preserve and main<g ref="char:EOLhyphen"/>taine the Peace and prosperitie of the Kingdomes wherein they live, and to prevent all Civill Warres and Dissentions in them.</hi>
+            </p>
+            <p>The truth of this most Pious, Profitable, and Excellent Consideration, appeares plainly:</p>
+            <p>First, By these generall Precepts given by God, both to King and people: <hi>Seeke Peace and pursue it,</hi> Psal. 34.14.
+<pb n="2" facs="tcp:158826:3"/> 1 Pet. 3.11. <hi>Follow Peace with all men.</hi> Heb. 12.14. <hi>As much as in you lyeth, live peaceably with all men.</hi> Rom. 12.18. <hi>Live in Peace, be at Peace among your selves.</hi> 2 Cor. 13.11. <hi>Have Peace one with another,</hi> Mar. 9.50.</p>
+            <p>Secondly, More particularly by 1 <hi>Tim.</hi> 1.2. <hi>I exhort therefore, that first of all, Prayers, Intercessions, and giving of thanks, be made for all men, for Kings, and for all that are in Au<g ref="char:EOLhyphen"/>thoritie, that we may lead a quiet and peaceable life, in all godli<g ref="char:EOLhyphen"/>nesse and honestie:</hi> Compared with <hi>Ier.</hi> 29.7. <hi>And seeke the Peace of the Citie, whether I have caused you to be carried away Captives, and pray unto the Lord for it, for in the Peace thereof, shall ye have Peace.</hi>
+            </p>
+            <p>Thirdly, By that Injunction of King <hi>David</hi> himselfe, gi<g ref="char:EOLhyphen"/>ven to all his people by Divine command, <hi>Psal.</hi> 122, 6, 7, 8. <hi>Pray for the Peace of Ierusalem, they shall prosper that love thee: Peace be within thy walls, and prosperitie within thy pallaces. For my Brethren and Companions sake, I will now say, Peace be within thee.</hi>
+            </p>
+            <p>Fourthly, By that speech of good <hi>Hezechia,</hi> Isay 39.8. <hi>Good is the word of the Lord which thou hast spoken, for there shall be Peace and Truth in my dayes.</hi>
+            </p>
+            <p>Fifthly, By the Titles given to God and Christ in Scrip<g ref="char:EOLhyphen"/>ture, where God is oft stiled <hi>the God of Peace,</hi> Rom. 15.33. <hi>And Christ the prince and King of Peace,</hi> Isay 9.6. Read but that excellent exhortation of the Apostle to the <hi>Corinthians;</hi> Fi<g ref="char:EOLhyphen"/>nally my Brethren (saith he) making this the conclusion of all other his fore-going precepts; <hi>Be ye perfect, be of good com<g ref="char:EOLhyphen"/>fort, be of one mind: Live in Peace, and the God of Love and Peace shall be with you,</hi> 2 Cor. 13.11. Adde hereunto the seve<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>all pro<g ref="char:EOLhyphen"/>mises of God in Scripture, <hi>To give his people Peace in their Land, to blesse his people with Peace, to ordaine Peace for them, to keepe them in perfect Peace, &amp;c.</hi> Levit. 26.6. Psal. 29.11. Isay. 26.3. Ezek. 34.25. This was our Saviour Christs owne Legacy, <hi>Who bequeathed his Peace unto his people,</hi> Jo. 14.27. Now if God be a God of Peace, and Christ the Prince and King of
+<pb n="3" facs="tcp:158826:3"/> Peace, and both of them give and promise nothing but Peace unto their people, then Kings, who are Gods Vice ge<g ref="char:EOLhyphen"/>rents, and ought to imitate his example, must endeavour to be Kings of Peace, and study to the uttermost to preserve their Kingdomes, and Subjects in perfect peace and prospe<g ref="char:EOLhyphen"/>rity, and not to make war against them, but feede, guide, and seeke their welfare in the integrety of their hearts.</p>
+            <p>And if it be thus, how then will those desperate Malignant spirits be branded with shame and infamy unto all posterity, who first councelled and still advice His Majesty to main<g ref="char:EOLhyphen"/>taine a causelesse civill Warre against his Parliament and people? Surely he that speaks best of them, can record them for no better then most unnaturall vipers, and Traytors to their Country, desperate Rebels against God, and most ex<g ref="char:EOLhyphen"/>ecrable wicked persons, for so God himselfe hath proclai<g ref="char:EOLhyphen"/>med them to all the World, <hi>Esay,</hi> 39, 5.10. <hi>They hatch Cock<g ref="char:EOLhyphen"/>atrice egs, and weave the Spiders Web, he that eateth of their eggs dieth, and that which is crushed breaketh out into a Viper, their workes are morkes, of iniquity, and the Act of violence is in their hands, their feet run to evill, and they haste to shed innocent blood, th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ir thoughts, are thoughts of iniquity, wasting and destruction is in their paths, the way of peace they know not, and there is no judge<g ref="char:EOLhyphen"/>ment in their goings, they have made them crooked pathes, whosoever goeth therein shall not know Peace▪</hi> and <hi>Rom.</hi> 3.13.19. <hi>Their throat is an open Sepulcher, with their tongues they have used deceit, the poyson of Aspes is under their Lips, their Mouth is full of Cursing and Bitternesse, their feet are swift to shed blood, Destructi<g ref="char:EOLhyphen"/>on and Misery are in their wayes, awd the way of Peace they have not knowne, there is no feare of God before their Eyes.</hi> Oh mise<g ref="char:EOLhyphen"/>rable vnhappy Princes, who are advised and seduced by such pernitious Councellours! O rash inconsiderate wretched people, who are besotted by them, so farre as to take up Armes against their Native Countrey to become their owne, their Brethrens, the Parliaments, and Kingdoms
+<pb n="4" facs="tcp:158826:4"/> Executioners, and thereby most Horrid and Detestable Traytors.</p>
+            <p>Doe but consider how quickly this Bloody Tyrant War hath put a period to all our former Ioyes and Happinesse, Man, created after Gods owne Image, destroying the Image of his Creator; Christian, most unchristianly slaughtering his Brother in Christ; nay, Protestants linckt by a neerer tye of Religion, oftentimes Massacring those of their owne Religion, the Father most unnaturally ripping up the bow<g ref="char:EOLhyphen"/>els of his son, and the Son of the Father, a Brother beating out his Brothers braines, Kinsman against Kinsman, Friend against Friend, most Barbarously and Unhumanely butche<g ref="char:EOLhyphen"/>ring one another, here a Bullet, there a Speare or Poleaxe, seperating the Soule and Body in the very act of Wrath and Malice, the devouring Cannon heaping the mangled Carcasses of Horse and Man together. What ghastly looks? What hideous shrickes, and dismall grones? What grisly gaping Wounds of dying men, besmeared with Blood, and Dirt, doe even affright and terrify the hearers and specta<g ref="char:EOLhyphen"/>tors, though their Enemies? What Out-cries, Teares, and Sighes, by new-made Widdowes for their Husbands deaths? What Mournings by aged Parents for their slaughtered Sonnes? Wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t Lamentation by poore distressed Children made Fatherlesse by War? What Pillaging, Plundrings, Rapines, Murders, Massacres, by the Cruell, Barbarous and Bloody Souldier? No liberty left us of Ploughing, Sowing, Trafficking, or Trading one with another.</p>
+            <p>That which the Industrious, and painfull Tradesman or Husbandman, hath with much labour and paines gathered together, to be the Staffe and Comfort of their Age, and a Portion and Provision for their Children, in an instant be<g ref="char:EOLhyphen"/>comes the Prey and Spoyle of a few Mercilesse men; And all these Miseries usu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lly seconded by Pestilence and Famine: And God Almightie knowes how soone it may be our
+<pb n="5" facs="tcp:158826:4"/> turnes to suffer by either or both of the last Judgements, unlesse we endeavour to prevent the first by applying all our Diligence, Industry, and Affections towatds the procuring of a speedie and happy Peace; I appeale therefore to His Majestie, to every English mans, or other Subjects Consci<g ref="char:EOLhyphen"/>ence, and advise them all in the presence of God (as they will answer the contrary at the great approaching day of Judgement) seriously to Consider the premises, and no longer presume to continue in Armes against their owne deare Native Country that bred them, against the Parlia<g ref="char:EOLhyphen"/>ment, who sit night and day, and spend both their Fortunes, Time, and Spirits, to prevent our iminent Dangers, and settle the great and glorious worke of a blessed Reformati<g ref="char:EOLhyphen"/>on in this our Land and Nation, against our deare loving Brethren, Kindred, Friends and Countrymen, who never did us the lest Injury, against our selves, our Children, and Fa<g ref="char:EOLhyphen"/>milies, which a civill War may quickly ruine. Nor yet to Countenance, Iustifie, or side with those unnaturall Vipers, and unreasonable sottish Bruits, who either maliciously, or inconsiderately, foment and promote such an unnaturall, im<g ref="char:EOLhyphen"/>pious, fatall, Civill War; but let us all put forth our ut<g ref="char:EOLhyphen"/>most best endeavours, and poure out our fervent prayers to God, to prevent and cease these civill Combustions, to ayde and preserve our dear Native Country, Kingdome, Religion, the Parliament, our selves, and our posteritie, against these malignant Incendiaries, who seeke their utter destruction. Oh let no true Englishman or Christian bee so degenerous and brutish, as to doe such disservice to his Countrie in a few dayes or houres, which he shall with brinish teares re<g ref="char:EOLhyphen"/>pent for ever. And I shall likewise humbly presume, to be<g ref="char:EOLhyphen"/>seech his Majestie, upon the bended knees of my soul, piously to consider the lamentable condition of his poore distressed Subjects, by reason of these distractions, &amp; destructive dissen<g ref="char:EOLhyphen"/>tions: and that then he would be most graciously pleased, ac<g ref="char:EOLhyphen"/>cording
+<pb n="6" facs="tcp:158826:5"/> to his Oath, his Royall dutie, and many repeated Prote<g ref="char:EOLhyphen"/>stations, to preserve his people and Kingdom in a sweet Peace and blessed Vnity, to disband his present forces and tumul<g ref="char:EOLhyphen"/>tuous Cavaliers, discar'd all bloody Councellours who ad<g ref="char:EOLhyphen"/>vised him to this most unnaturall, unseasonable, dangerous, civill War, to returne with speed to <hi>London,</hi> and close with his great and best Councell, the Parliament, for the preser<g ref="char:EOLhyphen"/>vation and present aid of bleeding <hi>Ireland,</hi> the setling and composing of his peoples present feares and destractions, the effecting of a perfect through Reformation and Union in Church and State, the redresse of all remaining grievances, the advancement of Truth, of the flourishing estate of his three Kingdomes, and his owne Royall Honour, Revenues, and Greatnesse, which will eternally gaine his Majesty the fervent prayers, hearts, affections, purses, and ready service of all his Kingdomes and Subjects, together with immortall ho<g ref="char:EOLhyphen"/>nour: whereas if he shall still proceed in prosecution of this desperate civill war against his People, Kingdome, and Parliament, the guilt of al his Subjects innocent blood, which shall be shed in this unnaturall causelesse war, will light heavy upon his conscience, be required at his hands: and in conclu<g ref="char:EOLhyphen"/>sion, both Himselfe, his Kingdoms, and loyall people, will be brought to the very extremity of misery, if not to utter ru<g ref="char:EOLhyphen"/>ine, after such a long enjoyed flourishing Peace both under his owne and his predecessors peaceable Raignes; which most gracious Lord God, wee humbly beseech thee, by thy unspeakeable goodnesse to prevent, and let there be no end of our peace with thy heavenly Majestie, with our owne consci<g ref="char:EOLhyphen"/>ences, and one with another (King with Parliament, Kingdom and People, and they with King) till Jesus Christ, the Prince of peace, his second comming, who shall give all his ever<g ref="char:EOLhyphen"/>lasting peace, and blisse in his Celestiall Kingdome <hi>Amen.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>This is Printed according to Order.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
